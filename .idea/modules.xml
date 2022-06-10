@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FastAndSlowPointers/FastAndSlowPointers.iml" filepath="$PROJECT_DIR$/FastAndSlowPointers/FastAndSlowPointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GrokkingtheCodingInterview.iml" filepath="$PROJECT_DIR$/.idea/GrokkingtheCodingInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeIntervals/MergeIntervals.iml" filepath="$PROJECT_DIR$/MergeIntervals/MergeIntervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" filepath="$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeBreadthFirstSearch/TreeBreadthFirstSearch.iml" filepath="$PROJECT_DIR$/TreeBreadthFirstSearch/TreeBreadthFirstSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoPointer/TwoPointer.iml" filepath="$PROJECT_DIR$/TwoPointer/TwoPointer.iml" />
+    </modules>
+  </component>
+</project>
